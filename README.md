@@ -2,7 +2,7 @@
 
 ## Alexis Lopez
 
-This repository contains representative work from courses in the Master of Science in Computer Information Systems and Business Analytics program at West Texas A&M University. The coursework is organized into the four core areas: Data Analytics, Data Mining and Management, Data Mining Methods, and Systems Development. There are two course I am currently enrolled in (CIDM6355 Data Mining Methods/CIDM5380 Cloud Computing and Security) which do not have any coursework so far. I will add a certificate I did receive for google cloud in a previous course, but that is the extent of my knowledge in that for now. I am planning on adding more work and please let me know any suggestions you may have. 
+This repository contains representative work from courses in the Master of Science in Computer Information Systems and Business Analytics program. The coursework is organized into the four core areas: Data Analytics, Data Mining and Management, Data Mining Methods, and Systems Development. There are two course I am currently enrolled in (CIDM6355 Data Mining Methods/CIDM5380 Cloud Computing and Security) which do not have any coursework so far. I will add a certificate I did receive for google cloud in a previous course, but that is the extent of my knowledge in that for now. I am planning on adding more work and please let me know any suggestions you may have. 
 
 ## Data Analytics
 
