@@ -30,11 +30,11 @@ Currently enrolled. Coursework will be added as assignments are completed.
 
 ### CIDM 6303 – Technology Foundations
 
-[View Replit Website Evidence](CIDM-6303-Replit-Website.md)
+[View Replit Website Evidence](CIDM6303-Replit-Website.md)
 
 ### CIDM 6325 – Web Application Development
 
-[View Baby-Led Weaning Tracker Evidence](CIDM-6325-Baby-Led-Weaning.md)
+[View Baby-Led Weaning Tracker Evidence](CIDM6325-Baby-Led-Weaning.md)
 
 ## Networking and Cybersecurity
 
