@@ -8,44 +8,42 @@ This repository contains representative work from courses in the Master of Scien
 
 ### CIDM 6308 – Seminar in Data Analytics
 
-[View HW2 Screenshots Submission](CIDM6308-HW2.docx)
+[View HW2 Screenshots Submission](CIDM-6308-HW2-Screenshots.pdf)
 
 ### CIDM 6312 – Seminar in Information Visualization
 
-[View Final Project: Telecom Customer Churn Analysis](CIDM6312-Final-Project.ipynb)
+[View Final Project: Telecom Customer Churn Analysis](CIDM-6312-Telecom-Churn-Analysis.ipynb)
 
 ## Data Mining and Management
 
 ### CIDM 6350 – Data and Information Management
 
-[View Normalization Assignment](CIDM6350-Normalization.pdf)
+[View Normalization Assignment](CIDM-6350-Normalization-Assignment.pdf)
 
 ### CIDM 6355 – Data Mining Methods
 
 Currently enrolled. Coursework will be added as assignments are completed.
 
+[View Course Syllabus](CIDM-6355-Syllabus.pdf)
+
 ## Systems Development
 
 ### CIDM 6303 – Technology Foundations
 
-[View Replit Website](https://shameless-tough-markuplanguage--ajlopez6.replit.app/#safety)
-
-This website was created after the course but demonstrates the same type of Replit website-development skills practiced during the course.
+[View Replit Website Evidence](CIDM-6303-Replit-Website.md)
 
 ### CIDM 6325 – Web Application Development
 
-[View Baby-Led Weaning Tracker](https://github.com/alexisj424/CIDM6325_FinalProject_BLW)
+[View Baby-Led Weaning Tracker Evidence](CIDM-6325-Baby-Led-Weaning.md)
 
 ## Networking and Cybersecurity
 
 ### CIDM 6340 – Network Management and Information Security
 
-[View Home Network Design Report](CIDM6340-Network-Report.docx)
+[View Home Network Design Report](CIDM-6340-Home-Network-Design.pdf)
 
 ### CIDM 5380 – Cloud Computing and Security
 
 Currently enrolled. Course-specific work will be added as assignments are completed.
 
-[View Google Cloud Data Analytics Professional Certificate](Google-Cloud-Certificate.pdf)
-
-The certificate was completed before this course and is included as supporting evidence of my previous Google Cloud experience.
+[View Google Cloud Data Analytics Professional Certificate](Google-Cloud-Data-Analytics-Certificate.pdf)
