@@ -22,7 +22,9 @@ This repository contains representative work from courses in the Master of Scien
 
 ### CIDM 6355 – Data Mining Methods
 
-Currently enrolled. Coursework will be added as assignments are completed.
+Currently enrolled. Additional coursework will be added as assignments are completed.
+
+[View HW1 Decision-Tree Evidence](CIDM-6355-HW1-Decision-Tree.md)
 
 [View Course Syllabus](CIDM-6355-Syllabus.pdf)
 
